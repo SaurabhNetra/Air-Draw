@@ -1,7 +1,10 @@
 # Air-Draw
+
 Air Draw: A Drawing tool using Vision Based Gesture Recognition
 
-Instructions for Using Air Draw
+
+Walkthrough for Using Air Draw:
+
 
 1. Running the Application :
 
